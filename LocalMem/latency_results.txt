@@ -1,0 +1,11 @@
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 200.000MiB
+*** Unable to modify prefetchers (try executing 'modprobe msr')
+*** So, enabling random access for latency measurements
+Measuring idle latencies for random access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	  96.4	 146.5	
+       1	 150.2	  91.5	
